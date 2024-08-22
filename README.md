@@ -3,6 +3,8 @@
 **Introduction** -
 This project aims to provide clear insights into sales data by analyzing transaction details, identifying patterns, and drawing actionable conclusions. The goal is to help businesses make data-driven decisions to enhance operations and boost profitability.
 
+![Dashboard](https://github.com/devansh941232/Excel-Project-SkillCircle/blob/main/githubproject1.png)
+
 **Project Overview**
 
 The project involved analyzing a dataset that includes various sales-related variables such as:
